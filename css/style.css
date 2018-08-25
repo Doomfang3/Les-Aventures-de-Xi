@@ -33,7 +33,18 @@ color: inherit;
 }
 
 section {
-text-align: justify;
+font-family: 'Raleway', sans-serif;
+  line-height: 2rem;
+  text-align: justify;
 color: #000000;
 font-size: 1.15rem;
+}
+
+section>p {
+  padding-top: 3rem;
+}
+
+section>h1 {
+  font-family: 'Sawarabi Mincho', sans-serif;
+  text-align: center;
 }
