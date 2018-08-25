@@ -1,0 +1,39 @@
+body {
+  background-color: #EFEFF0;
+}
+
+header {
+
+  height: 75px;
+}
+
+.navContainer {
+  display: grid;
+  grid-template-columns: 1fr 15% 15% 15% 15% 1fr;
+
+}
+.navContainer>div {
+  text-align: center;
+  padding: 0.75em 1em;
+}
+
+.navlink {
+  border: 1px solid black;
+  background-color: rgba(150, 150, 150, 0.3);
+}
+
+.navlink>a {
+text-decoration: none;
+color: inherit;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 700px 1fr;
+}
+
+section {
+text-align: justify;
+color: #000000;
+font-size: 1.15rem;
+}
