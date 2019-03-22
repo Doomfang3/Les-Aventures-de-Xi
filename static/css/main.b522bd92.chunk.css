@@ -1,0 +1,2 @@
+body{background-color:#efeff0}header{height:75px}.navContainer{display:grid;grid-template-columns:1fr 15% 15% 15% 15% 1fr}.navContainer>div{text-align:center;padding:.75em 1em}.navlink{border:1px solid #000;background-color:hsla(0,0%,58.8%,.3)}.navlink>a{text-decoration:none;color:inherit}.title{font-size:2em;font-weight:700;text-align:center}.text-dialogue{text-indent:2em}.text-dialogue:before{content:"\2014   "}
+/*# sourceMappingURL=main.b522bd92.chunk.css.map */
