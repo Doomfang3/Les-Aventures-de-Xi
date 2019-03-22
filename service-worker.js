@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Les-Aventures-de-Xi/precache-manifest.d74bf04f53387b194e7e376df6a2f878.js"
+  "/Les-Aventures-de-Xi/precache-manifest.9bb95868949239be0fe6a056ea40dcc4.js"
 );
 
 workbox.clientsClaim();
