@@ -1,0 +1,13 @@
+.title {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.text-dialogue {
+  text-indent: 2em;
+}
+
+.text-dialogue::before {
+  content: "— ";
+}

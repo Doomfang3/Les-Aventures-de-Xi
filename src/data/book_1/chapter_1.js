@@ -1,5 +1,5 @@
 const data = [["title", "Chapitre I"],
-  ["text-dialogue>", "Et c'est ainsi que le Démon mi-homme mi-renard à neuf queues fut repoussé au plus profond des grottes de Payon, scellé à tout jamais dans la Cité des Morts. Le village redevint un lieu paisible et la vie reprit son cours."],
+  ["text-dialogue", "Et c'est ainsi que le Démon mi-homme mi-renard à neuf queues fut repoussé au plus profond des grottes de Payon, scellé à tout jamais dans la Cité des Morts. Le village redevint un lieu paisible et la vie reprit son cours."],
   ["", "Assis dans l'herbe en demi-cercle autour de leur professeur, les enfants du petit village de Payon étaient suspendus à ses lèvres. C'était leur histoire préférée. Ils applaudirent et la réclamèrent une nouvelle fois."],
   ["text-dialogue", "C'est tout pour aujourd'hui. Il est temps de rentrer chez vous !"],
   ["text-dialogue", "Monsieur, est-ce qu'il est toujours dans la grotte le démon ? demanda une petite fille rousse de cinq ans."],

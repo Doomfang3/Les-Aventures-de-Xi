@@ -1,28 +1,19 @@
 import React, { Component } from 'react';
+import { Container } from 'semantic-ui-react'
 import './App.css';
-import MainText from './components/MainText';
+import Header from './components/Header/index';
+import MainText from './components/MainText/index';
+import Footer from './components/Footer/index';
 
 class App extends Component {
   render() {
     return (
       <>
-      <header>
-        <nav className="navContainer">
-        <div></div>
-        <div className="navlink"><a href="#home">Home</a></div>
-        <div className="navlink"><a href="#illus">Illustrations</a></div>
-        <div className="navlink"><a href="#dl">Téléchargements</a></div>
-        <div className="navlink"><a href="#contacts">Contacts</a></div>
-        <div></div>
-        </nav>
-      </header>
-
-      <div className="container">
-        <div></div>
+      <Header />
+      <Container text style={{ marginTop: '2em', marginBottom: '7em' }}>
         <MainText />
-        <div></div>
-      </div>
-      <footer></footer>
+      </Container>
+      <Footer />
       </>
     );
   }
